@@ -1,0 +1,12 @@
+a,a:hover,a:active,a:visited {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.well {
+	margin-top: 20px;
+	word-wrap: break-word;
+}
